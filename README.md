@@ -45,4 +45,4 @@ To do this: start the Torque daemon on your server and leave it running in the b
 It is recommended that you specify a username/password with your wallet rpc. This can be done by starting your wallet rpc with `torque-wallet-rpc --rpc-bind-port 20189 --rpc-login username:password --wallet-file /path/walletfile` where "username:password" is the username and password that you want to use, separated by a colon. Alternatively, you can use the `--restricted-rpc` flag with the wallet rpc like so `./torque-wallet-rpc --testnet --rpc-bind-port 20189 --restricted-rpc --wallet-file wallet/path`.
 
 ## Donating Monero Integrations
-XTC Address : `44krVcL6TPkANjpFwS2GWvg1kJhTrN7y9heVeQiDJ3rP8iGbCd5GeA4f3c2NKYHC1R4mCgnW7dsUUUae2m9GiNBGT4T8s2X`
+XMR Address : `44krVcL6TPkANjpFwS2GWvg1kJhTrN7y9heVeQiDJ3rP8iGbCd5GeA4f3c2NKYHC1R4mCgnW7dsUUUae2m9GiNBGT4T8s2X`
